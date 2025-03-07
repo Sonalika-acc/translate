@@ -59,7 +59,7 @@ languages = {
     "English": "en", "French": "fr", "Spanish": "es", "German": "de",
     "Chinese (Simplified)": "zh-cn", "Japanese": "ja", "Korean": "ko",
     "Hindi": "hi", "Arabic": "ar", "Portuguese": "pt", "Russian": "ru",
-    "Italian": "it", "Dutch": "nl", "Turkish": "tr", "Thai": "th"
+    "Italian": "it", "Dutch": "nl", "Turkish": "tr", "Telugu": "te"
 }
 
 # Sidebar for Language Selection
