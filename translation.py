@@ -127,4 +127,4 @@ st.write("💡 *Powered by Google Translate (Unofficial API) & Streamlit.*")
 st.write("💡 *Powered by Google Translate (Unofficial API) & Streamlit.*")
 
 
->>>>>>> 5be354b98bac21d66b74e59e65651c5404a819c5
+
