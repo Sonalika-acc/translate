@@ -123,7 +123,7 @@ if st.button("🔄 Translate"):
 st.markdown("---")
 st.write("💡 *Powered by Google Translate (Unofficial API) & Streamlit.*")
 
-st.write("💡 *Powered by Google Translate (Unofficial API) & Streamlit.*")
+
 
 
 
